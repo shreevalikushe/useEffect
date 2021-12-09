@@ -1,0 +1,27 @@
+body {
+  justify-content: center;
+}
+.App {
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+}
+.div {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black;
+  margin: 0.5rem;
+  background-color: sandybrown;
+}
+.title {
+  text-align: center;
+  padding: 0.1rem;
+  margin: 0.1rem;
+  color: rebeccapurple;
+}
+.btnToggle {
+  width: 20%;
+  margin: auto;
+}
